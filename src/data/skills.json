@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Java",
+    "skill": "Grundläggande",
+    "note": "Completed various school projects, including a library app mockup and system integrations.",
+    "note-sv": "Gjort flera skolprojekt, tex mockup biblioteksapp och integration mellan system.",
+    "url": "https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png",
+    "level": 3
+  },
+  {
+    "title": "SQL",
+    "skill": "Grundläggande",
+    "note": "Proficient in the use, design, and optimization of relational databases.",
+    "note-sv": "Goda kunskaper av användning, design och optimering av relationsdatabaser.",
+    "url": "https://cdn-icons-png.flaticon.com/512/4299/4299956.png",
+    "level": 3
+  },
+  {
+    "title": "Html",
+    "skill": "Grundläggande",
+    "note": "Practical experience gained through several school and personal projects.",
+    "note-sv": "Grundläggande kunskaper. Har använt för flertalet skol -och hemmaprojekt.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png",
+    "level": 2
+  },
+  {
+    "title": "Javascript",
+    "skill": "Grundläggande",
+    "note": "Experience using JS in several small school and personal projects, as well as in a professional setting.",
+    "note-sv": "Gjort flera mindre skol -och hemmaprojekt. Har också använt i proffessionell miljö.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png",
+    "level": 3
+  },
+  {
+    "title": "Typescript",
+    "skill": "Grundläggande",
+    "note": "Developing knowledge of TS, with practical experience gained in a professional setting.",
+    "note-sv": "Erfarenhet av användning i proffessionell miljö.",
+    "url": "https://www.svgrepo.com/show/374144/typescript.svg",
+    "level": 2
+  },
+  {
+    "title": "React",
+    "skill": "Grundläggande",
+    "note": "Practical experience gained through several school and personal projects.",
+    "note-sv": "Gjort flera mindre skol -och hemmaprojekt.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+    "level": 2
+  },
+  {
+    "title": "CSS",
+    "skill": "Grundläggande",
+    "note": "Practical experience gained through several school and personal projects.",
+    "note-sv": "Grundläggande kunskaper. Har använt för flertalet skol -och hemmaprojekt.",
+    "url": "https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png",
+    "level": 2
+  },
+  {
+    "title": "Git",
+    "skill": "Grundläggande",
+    "note": "Advanced proficiency. Experience in professional projects.",
+    "note-sv": "Mycket goda kunskaper. Erfarenhet i proffesionella projekt.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png",
+    "level": 4
+  },
+  {
+    "title": "C#",
+    "skill": "Grundläggande",
+    "note": "Using C# in my bachelor's thesis.",
+    "note-sv": "Använder C# i kandidatarbetet.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png",
+    "level": 1
+  },
+  {
+    "title": ".NET",
+    "skill": "Grundläggande",
+    "note": "Using .NET in my bachelor's thesis.",
+    "note-sv": "Använder .NET i kandidatarbetet.",
+    "url": "https://scand.com/wp-content/uploads/2021/04/Net.jpg",
+    "level": 1
+  },
+  {
+    "title": "Azure",
+    "skill": "Grundläggande",
+    "note": "Using Azure DevOps in bachelor's thesis. Experience with Boards, Repos, Pipelines, etc.",
+    "note-sv": "Använder Azure DevOps i kandidatarbetet. Erfarenhet av Boards, Repos, Pipelines etc.",
+    "url": "https://swimburger.net/media/ppnn3pcl/azure.png",
+    "level": 1
+  }
+]

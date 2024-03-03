@@ -1,0 +1,125 @@
+html,
+body,
+#root {
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.922);
+}
+
+.background {
+  background-color: rgba(0, 0, 0, 0.8);
+  background-image: url("../../home.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  height: 100%;
+  min-width: 448px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  /* border: 2px solid red; */
+}
+
+main {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right: auto;
+  margin-left: 12px;
+  margin-bottom: 5px;
+}
+
+.main-header {
+  margin-right: auto;
+  margin-left: 6px;
+  font-size: 7rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 12px;
+}
+
+nav > ul {
+  display: flex;
+  gap: 12px;
+  margin: 0px;
+}
+
+#title-name {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2rem;
+  align-self: flex-start;
+}
+
+ul,
+li,
+a,
+.tag {
+  text-decoration: none;
+  list-style-type: none;
+  color: rgb(230, 230, 230);
+}
+
+a:hover {
+  color: rgb(92, 95, 95);
+}
+
+.icon {
+  color: aliceblue;
+  background-color: aliceblue;
+  border-radius: 9px;
+  width: 28px;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-left: 24px;
+}
+
+.link {
+  background-color: aliceblue;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  padding: 3px 4px;
+  border-radius: 7px;
+}
+
+/*Card container*/
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.footer {
+  background-color: black;
+  width: 100%;
+  min-height: 100px;
+}
+
+.test {
+  width: 200px;
+}
+
+.temp {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: auto;
+  padding-bottom: 50px;
+}
